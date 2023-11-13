@@ -9,9 +9,6 @@ Dashboard to view conjuntions scenarios that occured between 11/8/2023 to 11/15/
 ## Tools Used
 * Tableau - Run the .twb file in tableau inorder to view the dashboard
 
-## PDF File
-* Images appear blurry in the pdf because it is unable to render them. Best way to view this file is to open it on google doc.
-
 ## Developers
 * Dylan Dias - @dylandias99 - https://github.com/dylandias99
 
